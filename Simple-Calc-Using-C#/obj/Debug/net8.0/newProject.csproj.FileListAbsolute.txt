@@ -1,0 +1,14 @@
+E:\CSheel Project\newProject\bin\Debug\net8.0\newProject.exe
+E:\CSheel Project\newProject\bin\Debug\net8.0\newProject.deps.json
+E:\CSheel Project\newProject\bin\Debug\net8.0\newProject.runtimeconfig.json
+E:\CSheel Project\newProject\bin\Debug\net8.0\newProject.dll
+E:\CSheel Project\newProject\bin\Debug\net8.0\newProject.pdb
+E:\CSheel Project\newProject\obj\Debug\net8.0\newProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSheel Project\newProject\obj\Debug\net8.0\newProject.AssemblyInfoInputs.cache
+E:\CSheel Project\newProject\obj\Debug\net8.0\newProject.AssemblyInfo.cs
+E:\CSheel Project\newProject\obj\Debug\net8.0\newProject.csproj.CoreCompileInputs.cache
+E:\CSheel Project\newProject\obj\Debug\net8.0\newProject.dll
+E:\CSheel Project\newProject\obj\Debug\net8.0\refint\newProject.dll
+E:\CSheel Project\newProject\obj\Debug\net8.0\newProject.pdb
+E:\CSheel Project\newProject\obj\Debug\net8.0\newProject.genruntimeconfig.cache
+E:\CSheel Project\newProject\obj\Debug\net8.0\ref\newProject.dll
