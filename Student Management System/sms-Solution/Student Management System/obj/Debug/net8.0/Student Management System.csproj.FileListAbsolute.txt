@@ -1,0 +1,14 @@
+D:\C-Sharp\sms-Solution\Student Management System\bin\Debug\net8.0\Student Management System.exe
+D:\C-Sharp\sms-Solution\Student Management System\bin\Debug\net8.0\Student Management System.deps.json
+D:\C-Sharp\sms-Solution\Student Management System\bin\Debug\net8.0\Student Management System.runtimeconfig.json
+D:\C-Sharp\sms-Solution\Student Management System\bin\Debug\net8.0\Student Management System.dll
+D:\C-Sharp\sms-Solution\Student Management System\bin\Debug\net8.0\Student Management System.pdb
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\Student Management System.AssemblyInfoInputs.cache
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\Student Management System.AssemblyInfo.cs
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\Student Management System.dll
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\refint\Student Management System.dll
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\Student Management System.pdb
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\Student Management System.genruntimeconfig.cache
+D:\C-Sharp\sms-Solution\Student Management System\obj\Debug\net8.0\ref\Student Management System.dll
