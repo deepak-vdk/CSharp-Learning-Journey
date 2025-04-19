@@ -29,7 +29,6 @@ This is a simple yet fully functional **Student Management System** built using 
 | 🔹 **Lists (Generics)**  | Store and manage a dynamic collection of students |
 | 🔹 **LINQ**              | Used for searching, sorting, and filtering students |
 | 🔹 **Custom Exceptions** | `NoValidDataFoundedException` used for better error messaging |
-| 🔹 **File Handling**     | Appends student data to a `.txt` file using `FileStream` and `StreamWriter` |
 | 🔹 **Exception Handling**| Try-Catch blocks around all risky operations |
 | 🔹 **ToString() Override** | Custom print format for displaying student data |
 | 🔹 **Console I/O**       | Takes user input and displays results on the console |
